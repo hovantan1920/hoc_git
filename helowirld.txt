@@ -1,4 +1,16 @@
-hello wilrd
-do la moi nguoi khac vao repo cua minh, giongs Minh lam khi dem
-hello ửild
-vcl
+
+co 2 cach add. 
+1. git add . (add toan bo file)
+2. git add 'ten file'(add tung file)
+
+
+git init
+git add .
+git commit -m "hoc github"
+git remote add origin git@github.com:hovantan1920/awdf.git
+git push origin master
+
+(update)
+git add.
+git commit -m "update"
+git push origin master
